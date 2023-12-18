@@ -7,17 +7,17 @@ In this project, we aim to predict the class of cars using the Car Evaluation Da
 
 1. buying: v-high, high, med, low
 2. maint: v-high, high, med, low
-doors: 2, 3, 4, 5-more
-persons: 2, 4, more
-lug_zoot: small, med, big
-safety: low, med, high
+3. doors: 2, 3, 4, 5-more
+4. persons: 2, 4, more
+5. lug_zoot: small, med, big
+6. safety: low, med, high
 
 #### Class Distribution:
 
-unacc: 70.02%
-acc: 22.22%
-good: 3.99%
-v-good: 3.76%
+1. unacc: 70.02%
+2. acc: 22.22%
+3. good: 3.99%
+4. v-good: 3.76%
 
 ### Implementation Steps
 #### 1. Data Loading and Preprocessing
