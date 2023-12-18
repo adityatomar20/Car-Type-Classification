@@ -2,21 +2,17 @@
 In this project, we aim to predict the class of cars using the Car Evaluation Dataset, which consists of six categorical attributes: buying, maintenance, doors, persons, lug_boot, and safety. The goal is to implement and evaluate various classification algorithms to determine the best-performing model for predicting car classes.
 
 ### Dataset Description
-Attributes:
 
-buying: v-high, high, med, low
+#### Attributes:
 
-maint: v-high, high, med, low
-
+1. buying: v-high, high, med, low
+2. maint: v-high, high, med, low
 doors: 2, 3, 4, 5-more
-
 persons: 2, 4, more
-
-lug_boot: small, med, big
-
+lug_zoot: small, med, big
 safety: low, med, high
 
-Class Distribution:
+#### Class Distribution:
 
 unacc: 70.02%
 acc: 22.22%
